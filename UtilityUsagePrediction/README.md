@@ -32,4 +32,4 @@ python main.py
 ```
 
 ## Author
-Krushna
+Krushna 
